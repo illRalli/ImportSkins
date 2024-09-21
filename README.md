@@ -1,4 +1,4 @@
-Copy the "Skins": [] section from your Skins.json and place it in data/ImportSkins/import.json
+Copy the "Skins": [ ] section from your Skins.json and place it in data/ImportSkins/import.json
 
 Load the plugin to your server and assign the importskins.admin permission to the group or player allowed to import
 
