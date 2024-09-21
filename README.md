@@ -1,6 +1,8 @@
+Load the plugin to your server to generate the default data file.
+
 Copy the "Skins": [ ] section from your Skins.json and place it in data/ImportSkins/import.json
 
-Load the plugin to your server and assign the importskins.admin permission to the group or player allowed to import
+Assign the importskins.admin permission to the group or player allowed to import
 
 Use the command /importskins to start the import process
 
